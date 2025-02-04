@@ -2,6 +2,7 @@
 
 ## Debugging code and life, one line at a time!
 
+
 💻 Fell in love with coding, still in a committed relationship.<br>🌱 Currently learning how to break things faster (and fix them).<br>🎯 2025 Goals: Write better code and drink more water.<br>⚡ I survive on badminton, memes, and clean code.<br>🔥 When in doubt, console.log() everything.<br>❤️ Tabs over spaces. Fight me.
 
 ## 🌐 Socials:
