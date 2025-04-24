@@ -3,7 +3,7 @@
 ## Debugging code and life, one line at a time!
 
 
-💻 Fell in love with coding, still in a committed relationship.<br>🌱 Currently learning how to break things faster (and fix them).<br>🎯 2025 Goals: Write better code and drink more water.<br>⚡ I survive on badminton, memes, and code.<br>🔥 When in doubt, console.log() everything.<br>❤️ Tabs over spaces. Fight me.
+💻 Fell in love with coding, still in a committed relationship.<br>🌱 Currently learning how to break things faster (and fix them).<br>🎯 2025 Goals: Write better code and drink more water.<br>⚡ I survive on badminton, memes, and code.<br>🔥 When in doubt, console.log() everything.<br>❤️ Tabs over spaces.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ayyan.amir.524) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyyan_amir__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayyan-amir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayyanamir6@gmail.com)
